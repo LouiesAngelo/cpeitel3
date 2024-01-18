@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <Layout home>
       <Head>
-        <title>{siteTitle}</title>
+        <title>cpeitel3</title>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Greetings! I am Louies Angelo Mesia, commonly known as Gelo. the outgoing Vice-President (Internal) of the Student Society of Information Technology Education, outgoing PIO of the UA Central Student Council, and outgoing Features Editor of Regina- the UA Publication. Nonetheless, the incoming President of the Student Society of Information Technology Education, incoming Managing Editor of Regin, and Mr. UA-Scientia 2023.</p>
